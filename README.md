@@ -1,5 +1,8 @@
 # lambdapunk.zsh-theme
 
+<img width="943" alt="Screenshot 2024-12-15 at 11 10 32 AM" src="https://github.com/user-attachments/assets/d7dbce91-9732-43cc-91df-b70387224841" />
+
+
 A minimal, Monokai-inspired Zsh theme with dynamic prompts, VCS integration, and command timing.
 
 ## Features
